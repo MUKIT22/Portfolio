@@ -25,12 +25,12 @@ body {
 
 .slides-navigation a.prev {
 	left: 20px;
-	background-image: url(../img/icons/prev.png);
+	background-image: url(../img/prev.png);
 }
 
 .slides-navigation a.next {
 	right: 20px;
-	background-image: url(../img/icons/next.png);
+	background-image: url(../img/next.png);
 }
 .titleMessage {
 	position: absolute;
@@ -65,11 +65,11 @@ body {
 }
 */
 .skillsSection,contactSection,ieltsSection{
-	background-color: 	#000000;
+	background-color: #000000;
 	color: #ffff;
 }
 .ieltsSection{
-	background-color: 	#000000;
+	background-color: #000000;
 	color: #ffff;
 }
 .skill {
@@ -107,32 +107,7 @@ body {
 	color: #e74c3c;
 	background-color: #fff;
 }
-/*
-.wrapper h1 {
-text-align: center;
-font-size:30px;
 
-}
-
-.img-area{
-
-	display: flex;
-	flex-wrap: wrap;
-	flex-direction: row;
-	align-items: center;
-	justify-content: center;
-}
-.single-img{
-
-
-}
-img:hover{
-
-	opacity: 0.5;
-	transition: 0.9s;
-
-}
-*/
 header{
 
 margin: 0.5vw;
